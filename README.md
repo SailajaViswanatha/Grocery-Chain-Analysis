@@ -5,5 +5,7 @@ The company offers a broad range of food categories, departments and brands and 
 In this project, a report is created by considering various features of the dataset like promotion_name, store_sales, gender, marital_status, brand_name,
 average_yearly_income, media_type. Correlations between the numerical columns are also observed.
 The tool used in this project is PowerBI
+![image](https://github.com/user-attachments/assets/f1fe6117-f818-4072-b03a-dde1443f269e)
+
 
 
